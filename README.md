@@ -7,7 +7,7 @@ python -m venv .venv
 ```
 For Windows, bisa pakai Git Bash,
 ```bash
-source .venv\Scripts\activate
+source .venv/Scripts/activate
 ```
 
 ```bash
